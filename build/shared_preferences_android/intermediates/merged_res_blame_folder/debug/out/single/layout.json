@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]

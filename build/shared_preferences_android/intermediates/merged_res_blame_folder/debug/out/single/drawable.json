@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/rindu/Documents/Test Recuit/tempbit/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/rindu/.gradle/caches/transforms-3/dc9114209dfb791762ec496ab14605be/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]

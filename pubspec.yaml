@@ -1,0 +1,34 @@
+name: tempbit
+description: Wallet Connect example app implementing wallet_connect dart library.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  scan: ^1.4.3
+  web3dart: ^2.3.0
+  shared_preferences: ^2.0.7
+  flutter_inappwebview: ^5.3.2
+  cupertino_icons: ^1.0.2
+  eth_sig_util: ^0.0.3
+  wallet_connect:
+    path: ../
+  freezed_annotation: ^2.0.3
+  go_router: ^3.1.0
+  flutter_bloc: ^8.0.1
+  get_it: ^7.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.0.3+1
+  json_serializable: ^6.2.0
+
+flutter:
+  uses-material-design: true
